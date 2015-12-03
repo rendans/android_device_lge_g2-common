@@ -93,6 +93,7 @@ PRODUCT_PACKAGES += \
 
 # Camera
 PRODUCT_PACKAGES += \
+	SnapdragonCamera \
     camera.msm8974
 
 # Charger
